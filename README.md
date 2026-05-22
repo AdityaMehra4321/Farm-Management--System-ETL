@@ -72,7 +72,8 @@ Region ,
 Irrigation Type , 
 Fertilizer Type 
 
-<img width="1919" height="806" alt="image" src="https://github.com/user-attachments/assets/470aeb12-8b63-4463-a569-1af98312e818" />
+<img width="1912" height="804" alt="image" src="https://github.com/user-attachments/assets/5e4db437-6111-4f64-9084-463090c3fd01" />
+
 
 Objective:-
 The objective of this project is to use smart farming data to generate actionable insights that can improve agricultural productivity and decision-making through interactive business intelligence dashboards.
