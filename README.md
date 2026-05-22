@@ -1,5 +1,3 @@
-# Farm-Management--System-ETL
-
 # Farm-Management-System-ETL
 A data analytics and visualization project developed using Microsoft Power BI to analyze agricultural productivity and smart farming factors such as crop yield, rainfall, soil moisture, NDVI index, irrigation methods, and fertilizer usage.
 
